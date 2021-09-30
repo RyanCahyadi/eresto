@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldPasswordErestoSales</name>
+   <tag></tag>
+   <elementGuidId>6b9b126b-b26c-4fca-87a2-a9db762287f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ion-nav-view/div/div[2]/div[2]/div/form[2]/input[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ion-nav-view/div/div[2]/div[2]/div/form[2]/input[2]</value>
+   </webElementProperties>
+</WebElementEntity>

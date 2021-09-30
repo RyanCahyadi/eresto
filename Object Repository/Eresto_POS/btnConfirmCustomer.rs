@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnConfirmCustomer</name>
+   <tag></tag>
+   <elementGuidId>56fb612c-0073-4cd0-80c6-3684585fcbe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[1]/div[2]/div[3]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[1]/div[2]/div[3]/a[2]</value>
+   </webElementProperties>
+</WebElementEntity>

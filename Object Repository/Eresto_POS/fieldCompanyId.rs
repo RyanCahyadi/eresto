@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldCompanyId</name>
+   <tag></tag>
+   <elementGuidId>e3d17b96-ed89-4bfe-bf07-2d75aa915de2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ion-nav-view/div/div[2]/div[2]/div/form/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ion-nav-view/div/div[2]/div[2]/div/form/input[1]</value>
+   </webElementProperties>
+</WebElementEntity>

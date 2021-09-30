@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bottleId</name>
+   <tag></tag>
+   <elementGuidId>7c066e2a-b237-4960-9fba-334ba0a44478</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[3]/div[5]/div[4]/div[1]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[3]/div[5]/div[4]/div[1]/h2</value>
+   </webElementProperties>
+</WebElementEntity>

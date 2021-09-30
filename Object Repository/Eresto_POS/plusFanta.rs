@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>plusFanta</name>
+   <tag></tag>
+   <elementGuidId>a7306f24-3465-481f-820d-f7f94fddee0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[3]/div[5]/div[4]/div[2]/div/div[2]/div[1]/div[1]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ion-nav-view/div/ion-view/div[18]/ion-nav-view/div[2]/div[3]/div[5]/div[4]/div[2]/div/div[2]/div[1]/div[1]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>
